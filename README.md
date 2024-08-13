@@ -1,5 +1,18 @@
 ## Bem-vindo(a) ao perfil de Wesley Oliveira 👻
 
+Estudante da área de tecnologia, com foco principalmente em desenvolvimento web, extrema curiosidade em IA's e amante de jogos. Buco oportunidades para aplicar minha curiosidade e criatividade!
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
+### Tecnologias que utilizo  
+<div style="display: inline_block"><br>
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />               
+</div>
+ 
+<br>
+________________________________________________________________________________________________________________________________________________________________________________________________________________________
  <div>
    <a href="https://github.com/wesleysword">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleysword&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -9,7 +22,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysword&layout=compact&langs_count=6&theme=radical"/>
     </div>
 
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Tecnologias que utilizo  
 <div style="display: inline_block"><br>
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
