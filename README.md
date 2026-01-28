@@ -1,12 +1,14 @@
 ## Bem-vindo(a) ao perfil de Wesley Oliveira 👻
 
-Estudante da área de tecnologia, com foco principalmente em desenvolvimento de softwares, extrema curiosidade em IA's e amante de jogos. Buco oportunidades para aplicar minha curiosidade e criatividade!
+Estudante da área de tecnologia, com foco principalmente em desenvolvimento de softwares, extrema curiosidade em IA's e amante de jogos. Em busca constante de oportunidades para aplicar minha curiosidade e criatividade!
 
 ---
 
    <div>
    <a href="https://github.com/wesleysword">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleysword&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <br>
+      <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysword&layout=compact&langs_count=6&theme=radical"/>
    </div>
 
@@ -27,12 +29,16 @@ Estudante da área de tecnologia, com foco principalmente em desenvolvimento de 
 ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A5B8?style=for-the-badge&logo=mockito&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
